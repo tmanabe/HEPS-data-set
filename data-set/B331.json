@@ -1,0 +1,22 @@
+{
+  "style": "0",
+  "headings": [
+    [
+      {
+        "from": 473,
+        "to": 504,
+        "mandatory": true
+      }
+    ]
+  ],
+  "contents": [
+    {
+      "from": 1,
+      "to": 9800,
+      "mandatory": true
+    }
+  ],
+  "children": [
+
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "style": "0",
+  "headings": [
+    [
+      {
+        "from": 1,
+        "to": 18,
+        "mandatory": true
+      }
+    ]
+  ],
+  "contents": [
+    {
+      "from": 1,
+      "to": 1215,
+      "mandatory": true
+    }
+  ],
+  "children": [
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 19,
+            "to": 34,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 19,
+          "to": 1215,
+          "mandatory": true
+        }
+      ],
+      "children": [
+        {
+          "style": "2",
+          "headings": [
+            [
+              {
+                "from": 35,
+                "to": 61,
+                "mandatory": true
+              }
+            ],
+            [
+              {
+                "from": 62,
+                "to": 186,
+                "mandatory": true
+              }
+            ]
+          ],
+          "contents": [
+            {
+              "from": 35,
+              "to": 1215,
+              "mandatory": true
+            }
+          ],
+          "children": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

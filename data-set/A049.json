@@ -1,0 +1,142 @@
+{
+  "style": "0",
+  "headings": [
+    [
+      {
+        "from": 1,
+        "to": 95,
+        "mandatory": false
+      },
+      {
+        "from": 96,
+        "to": 113,
+        "mandatory": true
+      }
+    ]
+  ],
+  "contents": [
+    {
+      "from": 1,
+      "to": 1197,
+      "mandatory": true
+    }
+  ],
+  "children": [
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 246,
+            "to": 364,
+            "mandatory": true
+          }
+        ],
+        [
+          {
+            "from": 379,
+            "to": 401,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 246,
+          "to": 471,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 472,
+            "to": 587,
+            "mandatory": true
+          }
+        ],
+        [
+          {
+            "from": 600,
+            "to": 622,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 472,
+          "to": 718,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 719,
+            "to": 837,
+            "mandatory": true
+          }
+        ],
+        [
+          {
+            "from": 852,
+            "to": 873,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 719,
+          "to": 943,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 944,
+            "to": 1060,
+            "mandatory": true
+          }
+        ],
+        [
+          {
+            "from": 1073,
+            "to": 1096,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 944,
+          "to": 1197,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    }
+  ]
+}

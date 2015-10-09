@@ -1,0 +1,160 @@
+{
+  "style": "0",
+  "headings": [
+
+  ],
+  "contents": [
+    {
+      "from": 1,
+      "to": 1855,
+      "mandatory": true
+    }
+  ],
+  "children": [
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 1,
+            "to": 118,
+            "mandatory": true
+          }
+        ],
+        [
+          {
+            "from": 119,
+            "to": 141,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 1,
+          "to": 359,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 360,
+            "to": 479,
+            "mandatory": true
+          }
+        ],
+        [
+          {
+            "from": 480,
+            "to": 503,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 360,
+          "to": 729,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 730,
+            "to": 847,
+            "mandatory": true
+          }
+        ],
+        [
+          {
+            "from": 848,
+            "to": 873,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 730,
+          "to": 1099,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 1100,
+            "to": 1220,
+            "mandatory": true
+          }
+        ],
+        [
+          {
+            "from": 1221,
+            "to": 1263,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 1100,
+          "to": 1489,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 1490,
+            "to": 1607,
+            "mandatory": true
+          }
+        ],
+        [
+          {
+            "from": 1608,
+            "to": 1630,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 1490,
+          "to": 1855,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    }
+  ]
+}

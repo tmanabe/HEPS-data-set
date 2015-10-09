@@ -1,0 +1,50 @@
+{
+  "style": "0",
+  "headings": [
+    [
+      {
+        "from": 1,
+        "to": 43,
+        "mandatory": true
+      }
+    ],
+    [
+      {
+        "from": 44,
+        "to": 88,
+        "mandatory": true
+      }
+    ]
+  ],
+  "contents": [
+    {
+      "from": 1,
+      "to": 6800,
+      "mandatory": true
+    }
+  ],
+  "children": [
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 100,
+            "to": 142,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 100,
+          "to": 6800,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    }
+  ]
+}

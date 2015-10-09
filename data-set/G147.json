@@ -1,0 +1,232 @@
+{
+  "style": "0",
+  "headings": [
+
+  ],
+  "contents": [
+    {
+      "from": 1,
+      "to": 2712,
+      "mandatory": true
+    }
+  ],
+  "children": [
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 143,
+            "to": 153,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 143,
+          "to": 860,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 861,
+            "to": 893,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 861,
+          "to": 2712,
+          "mandatory": true
+        }
+      ],
+      "children": [
+        {
+          "style": "1",
+          "headings": [
+            [
+              {
+                "from": 1272,
+                "to": 1290,
+                "mandatory": true
+              }
+            ],
+            [
+              {
+                "from": 1388,
+                "to": 1477,
+                "mandatory": true
+              }
+            ]
+          ],
+          "contents": [
+            {
+              "from": 1272,
+              "to": 1477,
+              "mandatory": true
+            }
+          ],
+          "children": [
+
+          ]
+        },
+        {
+          "style": "1",
+          "headings": [
+            [
+              {
+                "from": 1478,
+                "to": 1505,
+                "mandatory": true
+              }
+            ],
+            [
+              {
+                "from": 1584,
+                "to": 1663,
+                "mandatory": true
+              }
+            ]
+          ],
+          "contents": [
+            {
+              "from": 1478,
+              "to": 1663,
+              "mandatory": true
+            }
+          ],
+          "children": [
+
+          ]
+        },
+        {
+          "style": "1",
+          "headings": [
+            [
+              {
+                "from": 1664,
+                "to": 1680,
+                "mandatory": true
+              }
+            ],
+            [
+              {
+                "from": 1800,
+                "to": 1879,
+                "mandatory": true
+              }
+            ]
+          ],
+          "contents": [
+            {
+              "from": 1664,
+              "to": 1879,
+              "mandatory": true
+            }
+          ],
+          "children": [
+
+          ]
+        },
+        {
+          "style": "1",
+          "headings": [
+            [
+              {
+                "from": 1880,
+                "to": 1898,
+                "mandatory": true
+              }
+            ],
+            [
+              {
+                "from": 1971,
+                "to": 2050,
+                "mandatory": true
+              }
+            ]
+          ],
+          "contents": [
+            {
+              "from": 1880,
+              "to": 2050,
+              "mandatory": true
+            }
+          ],
+          "children": [
+
+          ]
+        },
+        {
+          "style": "1",
+          "headings": [
+            [
+              {
+                "from": 2051,
+                "to": 2069,
+                "mandatory": true
+              }
+            ],
+            [
+              {
+                "from": 2176,
+                "to": 2255,
+                "mandatory": true
+              }
+            ]
+          ],
+          "contents": [
+            {
+              "from": 2051,
+              "to": 2255,
+              "mandatory": true
+            }
+          ],
+          "children": [
+
+          ]
+        },
+        {
+          "style": "1",
+          "headings": [
+            [
+              {
+                "from": 2256,
+                "to": 2272,
+                "mandatory": true
+              }
+            ],
+            [
+              {
+                "from": 2331,
+                "to": 2411,
+                "mandatory": true
+              }
+            ]
+          ],
+          "contents": [
+            {
+              "from": 2256,
+              "to": 2411,
+              "mandatory": true
+            }
+          ],
+          "children": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "style": "0",
+  "headings": [
+
+  ],
+  "contents": [
+    {
+      "from": 1,
+      "to": 284,
+      "mandatory": true
+    }
+  ],
+  "children": [
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 88,
+            "to": 124,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 88,
+          "to": 218,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 219,
+            "to": 253,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 219,
+          "to": 265,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    }
+  ]
+}

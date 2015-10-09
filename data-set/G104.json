@@ -1,0 +1,153 @@
+{
+  "style": "0",
+  "headings": [
+    [
+      {
+        "from": 1,
+        "to": 27,
+        "mandatory": true
+      }
+    ]
+  ],
+  "contents": [
+    {
+      "from": 1,
+      "to": 935,
+      "mandatory": true
+    }
+  ],
+  "children": [
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 156,
+            "to": 164,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 156,
+          "to": 178,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 200,
+            "to": 207,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 200,
+          "to": 216,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 217,
+            "to": 224,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 217,
+          "to": 235,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 236,
+            "to": 242,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 236,
+          "to": 260,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 261,
+            "to": 274,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 261,
+          "to": 303,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 304,
+            "to": 311,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 304,
+          "to": 326,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    }
+  ]
+}

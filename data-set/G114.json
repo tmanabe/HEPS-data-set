@@ -1,0 +1,285 @@
+{
+  "style": "0",
+  "headings": [
+    [
+      {
+        "from": 1,
+        "to": 22,
+        "mandatory": true
+      }
+    ]
+  ],
+  "contents": [
+    {
+      "from": 1,
+      "to": 148538,
+      "mandatory": true
+    }
+  ],
+  "children": [
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 23,
+            "to": 82,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 23,
+          "to": 199,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 200,
+            "to": 215,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 200,
+          "to": 531,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 532,
+            "to": 564,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 532,
+          "to": 622,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 623,
+            "to": 636,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 623,
+          "to": 712,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 713,
+            "to": 737,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 713,
+          "to": 921,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 922,
+            "to": 933,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 922,
+          "to": 73253,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 73254,
+            "to": 73313,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 73254,
+          "to": 73430,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 73431,
+            "to": 73446,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 73431,
+          "to": 73762,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 73763,
+            "to": 73795,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 73763,
+          "to": 73853,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 73854,
+            "to": 73867,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 73854,
+          "to": 73943,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 73944,
+            "to": 73968,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 73944,
+          "to": 74152,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    },
+    {
+      "style": "1",
+      "headings": [
+        [
+          {
+            "from": 74153,
+            "to": 74165,
+            "mandatory": true
+          }
+        ]
+      ],
+      "contents": [
+        {
+          "from": 74153,
+          "to": 148538,
+          "mandatory": true
+        }
+      ],
+      "children": [
+
+      ]
+    }
+  ]
+}
